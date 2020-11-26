@@ -1,6 +1,7 @@
 # Web_Api
-# Autor: William Soares de Lima
-# Data: 26-11-2020
+
+Autor: William Soares de Lima
+Data: 26-11-2020
 
 Api desenvolvida para demonstrar criação de WebApi
 - Banco de dados criado via Model, com EFR
